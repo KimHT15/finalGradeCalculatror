@@ -9,6 +9,7 @@ import UIKit
 
 class ViewController: UIViewController
 {
+    //declare variables
     @IBOutlet weak var textField1: UITextField!
     
     @IBOutlet weak var textField2: UITextField!
@@ -16,7 +17,7 @@ class ViewController: UIViewController
     @IBOutlet weak var textField3: UITextField!
     
     @IBOutlet weak var resultLable: UILabel!
-    
+
     override func viewDidLoad()
     
     
